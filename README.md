@@ -1,7 +1,7 @@
 # babyNames
 Developed a variety of different methods and test cases that calculate statistics of baby name data within CSV files, by incorporating divide-and-conquer design techniques.
 
-##Demo:
+## Demo:
 
 
 
